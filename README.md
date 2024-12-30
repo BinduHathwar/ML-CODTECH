@@ -1,8 +1,14 @@
 **Name:** BINDU HATHWAR
+
 **Company:** CODTECH IT SOLUTIONS
-**ID:** CT4MEQE 
+
+**ID:** CT4MEQE
+
 **Domain:** Machine Learning
+
+
 **Duration:** December 2024 to April 2025
+
 
 ## Overview of the Project
 
@@ -13,13 +19,20 @@ The objective of this project is to help the developer determine the selling pri
 
 ### Key Activities
 **Data Collection and Preprocessing:** Gather house price data, clean it, and encode categorical variables.
+
 **Exploratory Data Analysis (EDA):** Visualize relationships between features and house prices to identify key patterns.
+
 **Model Development:** Train a linear regression model and interpret feature coefficients.
+
 **Model Evaluation and Optimization:** Evaluate performance using metrics like MSE and optimize with feature engineering.
+
 
 ### Technologies used
 **Python:** The primary langauge for machine learning.
+
 **Pandas:** Used for data manipulation and analysis.
+
 **matplotlib:** Employed for creating static, animaed, and interactive visualizations.
+
 **Seaborn:** Utilized for making statistical graph that are informative and attractive.
 
