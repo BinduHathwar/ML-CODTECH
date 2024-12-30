@@ -11,6 +11,8 @@
 
 
 ## Overview of the Project
+![image](https://github.com/user-attachments/assets/b6af77f0-7d05-49f2-8115-e29b5418ff85)
+
 
 ### Project: Linear Regression on House Prices
 
