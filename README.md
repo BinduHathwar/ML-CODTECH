@@ -1,1 +1,5 @@
 # ML-CODTECH TASK 1
+** Name:** BINDU HATHWAR
+** Company:** CODTECH IT SOLUTIONS
+**ID:** CT4MEQE 
+
