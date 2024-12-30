@@ -38,3 +38,5 @@ The objective of this project is to help the developer determine the selling pri
 
 **Seaborn:** Utilized for making statistical graph that are informative and attractive.
 
+**Jupyter Notebook:** Tool used.
+
