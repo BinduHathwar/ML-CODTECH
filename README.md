@@ -6,8 +6,7 @@
 
 **Domain:** Machine Learning
 
-
-**Duration:** December 2024 to April 2025
+**Duration:** 20th December 2024 to 20th April 2025
 
 
 ## Overview of the Project
